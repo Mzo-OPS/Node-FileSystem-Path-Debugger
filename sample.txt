@@ -1,0 +1,2 @@
+This is a new way to write files without using callbacks.
+This is an appended line.
